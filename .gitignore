@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.vscode/
+
+data/
+
+*.zip
+*.rar
+*.7z
+
+models/*state_dict*.pth
+
+integration/botsort_reid/test_embedder.py
